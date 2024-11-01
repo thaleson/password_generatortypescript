@@ -1,0 +1,19 @@
+// {
+//     "compilerOptions": {
+//       "module": "ESNext",
+//       "target": "ES6"
+//     }
+//   }
+
+
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "rootDir": "./src",
+      "outDir": "./dist",
+      "strict": true
+    }
+  }
+  
+  

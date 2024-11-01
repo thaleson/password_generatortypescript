@@ -1,0 +1,15 @@
+# Ignore node modules
+node_modules/
+
+# Ignore TypeScript build output
+dist/
+
+# Ignore TypeScript cache
+*.tsbuildinfo
+
+# Ignore environment variables
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
